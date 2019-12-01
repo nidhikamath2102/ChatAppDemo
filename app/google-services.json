@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "145286423805",
+    "firebase_url": "https://chatapplicationdemo-c1d9e.firebaseio.com",
+    "project_id": "chatapplicationdemo-c1d9e",
+    "storage_bucket": "chatapplicationdemo-c1d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145286423805:android:c2e9cc4415142f34928a94",
+        "android_client_info": {
+          "package_name": "nidhikamath.com.chatapplicationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145286423805-llrn4nkq5ho1o3u1gor1uo1e75tv37oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nidhikamath.com.chatapplicationdemo",
+            "certificate_hash": "a9845a86525066d930eebe2dd9436b365630d771"
+          }
+        },
+        {
+          "client_id": "145286423805-d4dq18eq2scd1st43cp1kuq8qdesunqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nidhikamath.com.chatapplicationdemo",
+            "certificate_hash": "45fa7b03446ee228dc6d86c735dd3571f4a396a9"
+          }
+        },
+        {
+          "client_id": "145286423805-9ap15vjvtls4jrvi8l8h3s0jv2cgt58b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4NUkf3GfxQ401wj-UmtkFCOakTFFPxrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145286423805-9ap15vjvtls4jrvi8l8h3s0jv2cgt58b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
